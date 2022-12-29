@@ -1,0 +1,43 @@
+
+.contenedor-fluido{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bg-personalized{
+    background-color: #b21751 !important;
+}
+
+h1{
+    text-align: center;
+    color: rgb(200, 36, 107);
+}
+
+.categorys{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+
+.main-h{
+background-color: rgba(56, 54, 54, 0.318);
+padding: 1rem;
+}
+
+.divCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    margin: 1rem;
+}
+
+
+footer img{
+    height: 5rem;
+}
